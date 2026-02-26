@@ -14,6 +14,9 @@ npm run dev
 npm run preview
 npm run build
 
+
+npm run lint
+
 diferencia entre estos 3
 dev---
 preview---
