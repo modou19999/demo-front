@@ -13,6 +13,8 @@ export default defineConfig([
         extends: ['js/recommended'],
         languageOptions: { globals: { ...globals.browser, ...globals.node } },
     },
+    tseslint.configs.strict,
+    tseslint.configs.stylistic,
     {
         ignores: ['**/dist/**'],
     },
