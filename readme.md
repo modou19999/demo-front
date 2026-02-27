@@ -4,15 +4,15 @@
 - main.ts
 - styles.css ".card"
 
-- añadir counter archive
-- hero.ts archive
-- footer archive
--
+- añadir counter carpeta
+- hero.ts carpeta
+- footer carpeta
+- page carpeta - dentro "home carpeta " home.ts
 
 - despliegue de app con "https://vercel.com/"
 
 que es un
-vite
+
 Oxlint
 Eslint
 "lint"
@@ -46,6 +46,12 @@ dev---
 preview---
 build----
 
+--->vite
+Vite se encarga de:
+Levantar un servidor de desarrollo
+Recargar automáticamente cuando guardas cambios (HMR)
+Construir el proyecto para producción
+Optimizar archivos (JS, CSS, imágenes)
 vite-->
 Carpeta Qué hace Vite
 index.html Lo procesa y lo coloca en dist/
@@ -68,3 +74,8 @@ npm run dev
 que es el código distribuibles?
 creo que solo dist un fichero
 npm run preview "me enseña "
+
+ejercisio
+about
+main.ts
+products
